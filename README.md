@@ -4,7 +4,6 @@ README.md
 ### Step 1: Verify Environment
 
 ```bash
-cd /home/dongxie_wen/test/certified-removal-main/pareto_experiments
 python verify_setup.py
 ```
 
